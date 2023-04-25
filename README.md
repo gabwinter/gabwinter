@@ -27,5 +27,3 @@ Conhecimento adquirido atraves cursos extra-curriculares, curso técnico e gradu
 
 Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da linguagem.
 
-![Snake animation](https://github.com/gabwinter/gabwinter/blob/output/github-contribution-grid-snake.svg)
-
