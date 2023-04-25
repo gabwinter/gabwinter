@@ -26,4 +26,6 @@ Conhecimento adquirido atraves cursos extra-curriculares, curso técnico e gradu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 
 Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da linguagem.
+
 ![Snake animation](https://github.com/gabwinter/gabwinter/blob/output/github-contribution-grid-snake.svg)
+
