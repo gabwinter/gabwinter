@@ -1,4 +1,4 @@
-### Olá, Sou Gabriel! 
+### Olá, sou Gabriel! 
 #### Desenvolvedor freelancer de sistemas em Google Sheets 
 
 📚 Graduando em Ciência da Computação 1/8 <br />
@@ -16,20 +16,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-Conhecimento adquirido atraves cursos extra-curriculares, curso técnico e graduação.
+Conhecimento adquirido atraves de cursos extra-curriculares, curso técnico e graduação.
 
 
 ### Familiariedade
 #### Ferramentas e linguagens que possuo mais familiariedade:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
 Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da linguagem.
 
-<div align="center">
-  <h3>Redes Sociais</h3>
-
+  <h3>Redes sociais</h3>
   <a href="https://www.linkedin.com/in/gabriel-winter-0196bb229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/gab.winterr/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
