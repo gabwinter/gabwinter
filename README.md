@@ -1,11 +1,10 @@
 ### Olá, sou Gabriel! 
-#### Desenvolvedor freelancer de sistemas em Google Sheets 
+#### Graduando de Ciência da Computação
 
-📚 Graduando em Ciência da Computação 1/8 <br />
-📚 Técnico em Desenvolvimento de Sistemas 2/5 <br />
+📚 Graduando em Ciência da Computação 2/8 <br />
+📚 Técnico em Desenvolvimento de Sistemas 3/5 <br />
 🌱 Atualmente estou aprendendo Java e MySQL<br />
 📫 Contato: gabrielwinter60@gmail.com<br />
-👨‍💼 Portfolio: https://davelopergabrielwinter.netlify.app/
 
 ### Tecnologias
 #### Ferramentas e linguagens que possuo conhecimento:
