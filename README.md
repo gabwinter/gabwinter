@@ -3,7 +3,7 @@
 
 📚 Graduando em Ciência da Computação 2/8 <br />
 📚 Técnico em Desenvolvimento de Sistemas 3/5 <br />
-🌱 Atualmente estou aprendendo Java e MySQL<br />
+🌱 Atualmente estou aprendendo Javascript<br />
 📫 Contato: gabrielwinter60@gmail.com<br />
 
 ### Tecnologias
@@ -22,7 +22,7 @@ Conhecimento adquirido atraves de cursos extra-curriculares, curso técnico e gr
 #### Ferramentas e linguagens que possuo mais familiariedade:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da linguagem.
 
