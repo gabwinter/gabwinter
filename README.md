@@ -1,7 +1,7 @@
 ### Olá, sou Gabriel! 
 #### Graduando de Ciência da Computação
 
-📚 Graduando em Ciência da Computação 3/8 <br />
+📚 Graduando em Ciência da Computação 4/8 <br />
 📚 Técnico em Desenvolvimento de Sistemas 5/5 <br />
 🌱 Atualmente estou aprendendo Python<br />
 📫 Contato: gabrielwinter60@gmail.com<br />
