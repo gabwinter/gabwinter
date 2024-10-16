@@ -10,7 +10,7 @@
 ####  Atualmente, estou imerso no mundo da programação, focando principalmente no desenvolvimento em Python. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
 
 ### Tecnologias
-#### Ferramentas e linguagens que possuo conhecimento:
+#### Ferramentas e linguagens que possuo conhecimento basico:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> 
