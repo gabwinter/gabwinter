@@ -27,7 +27,7 @@ Conhecimento adquirido atraves de cursos extra-curriculares, curso técnico e gr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da linguagem.
+Adquiri mais familiariedade atraves de exercícios e estudos extra-curriculares para maior conhecimento da tecnologia.
 
   <h3>Redes sociais</h3>
   <a href="https://www.linkedin.com/in/gabriel-winter-0196bb229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
