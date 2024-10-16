@@ -1,10 +1,13 @@
 ### Olá, sou Gabriel! 
-#### Graduando de Ciência da Computação
+#### Estudante de Ciência da Computação
 
 📚 Graduando em Ciência da Computação - UNISOCIESC 4/8 <br />
 📚 Técnico em Desenvolvimento de Sistemas - SENAI <br />
-🌱 Atualmente estou aprendendo Python<br />
+🌱 Atualmente estou sigo aprendendo Python<br />
 📫 Contato: gabrielwinter60@gmail.com<br />
+
+### Home
+#### Atualmente, estou focando principalmente no desenvolvimento em Python. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
 
 ### Tecnologias
 #### Ferramentas e linguagens que possuo conhecimento:
