@@ -7,7 +7,7 @@
 📫 Contato: gabrielwinter60@gmail.com<br />
 
 ### Home
-#### Atualmente, estou focando principalmente no desenvolvimento em Python. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
+####  Atualmente, estou imerso no mundo da programação, focando principalmente no desenvolvimento em Python. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
 
 ### Tecnologias
 #### Ferramentas e linguagens que possuo conhecimento:
