@@ -2,12 +2,13 @@
 #### Estudante de Ciência da Computação
 
 📚 Graduando em Ciência da Computação - UNISOCIESC 4/8 <br />
+📚 Técnico em Informática - CEDUP 1/4 <br />
 📚 Técnico em Desenvolvimento de Sistemas - SENAI <br />
-🌱 Atualmente sigo aprendendo Python<br />
+🌱 Atualmente sigo aprendendo Front-end<br />
 📫 Contato: gabrielwinter60@gmail.com<br />
 
 ### Home
-####  Atualmente, estou imerso no mundo da programação, focando principalmente no desenvolvimento em Python. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
+####  Atualmente, estou imerso no mundo da programação, focando principalmente no desenvolvimento em Front-end. Minha jornada inclui uma vasta experiência em Google Sheets, onde explorei meu potencial para otimização de processos e comunicação entre setores.
 
 ### Tecnologias
 #### Ferramentas e linguagens que possuo conhecimento basico:
