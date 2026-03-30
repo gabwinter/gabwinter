@@ -43,7 +43,7 @@ Atualmente atuo como Desenvolvedor Full Stack, trabalhando com:
 - Criação de interfaces modernas e performáticas  
 - Análise e resolução de problemas em produção  
 - Participação em decisões técnicas e evolução de sistemas  
-- Atuação com ambientes (DEV, SAT, BETA e produção)  
+- Atuação com ambientes (Desenvolvimento, QA, homologação e produção)  
 
 
 ## Aprendizado contínuo
