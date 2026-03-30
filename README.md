@@ -57,5 +57,5 @@ Busco constantemente evoluir em:
 
 
 ## Redes sociais
-
-[LinkedIn](#https://www.linkedin.com/in/gabriel-winter-0196bb229/?skipRedirect=true)  
+  <a href="https://www.linkedin.com/in/gabriel-winter-0196bb229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/gab.winterr/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
