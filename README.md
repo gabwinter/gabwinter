@@ -1,14 +1,12 @@
 # 👋 Olá, eu sou o Gabriel Winter
 
-🎓 Graduando em Ciência da Computação (UNISOCIESC) — 5/8  
+🎓 Graduando em Ciência da Computação (UNISOCIESC) — 7/8  
 🎓 Técnico em Desenvolvimento de Sistemas (SENAI)  
 💻 Desenvolvedor Full Stack  
 
 📫 Contato: gabrielwinter60@gmail.com  
 
----
-
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou Desenvolvedor Full Stack com foco em backend, atuando no desenvolvimento de sistemas de média e alta complexidade.
 
@@ -16,31 +14,28 @@ Tenho experiência com **C#, .NET, React e SQL**, trabalhando na construção e 
 
 Também possuo experiência com automação de processos utilizando **Google Sheets**, o que contribuiu para o desenvolvimento do meu pensamento analítico e foco em eficiência.
 
----
 
-## ⚙️ Tecnologias
+## Tecnologias
 
-### 🔹 Principais
+### Principais
 - C# / .NET  
 - React + TypeScript  
 - SQL Server / PostgreSQL / MySQL  
 - Dapper / Entity Framework  
 
-### 🔹 Arquitetura e práticas
+### Arquitetura e práticas
 - CQRS  
 - Clean Architecture  
 - SOLID  
 - APIs REST  
 
-### 🔹 DevOps e ferramentas
+### DevOps e ferramentas
 - Azure DevOps  
 - CI/CD  
 - Git / GitHub  
 - Vercel  
 
----
-
-## 📊 Experiência
+## Experiência
 
 Atualmente atuo como Desenvolvedor Full Stack, trabalhando com:
 
@@ -50,9 +45,8 @@ Atualmente atuo como Desenvolvedor Full Stack, trabalhando com:
 - Participação em decisões técnicas e evolução de sistemas  
 - Atuação com ambientes (DEV, SAT, BETA e produção)  
 
----
 
-## 📚 Aprendizado contínuo
+## Aprendizado contínuo
 
 Busco constantemente evoluir em:
 
@@ -61,9 +55,7 @@ Busco constantemente evoluir em:
 - Boas práticas de desenvolvimento  
 - DevOps e cloud  
 
----
 
-## 🌐 Redes sociais
+## Redes sociais
 
-[LinkedIn](#)  
-[GitHub](#)
+[LinkedIn](#https://www.linkedin.com/in/gabriel-winter-0196bb229/?skipRedirect=true)  
